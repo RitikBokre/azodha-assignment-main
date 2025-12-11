@@ -1,14 +1,14 @@
 # Azodha Onboarding
 
-## Install via bun/pnpm
+## Install 
 
 ```
-pnpm install
+npm install
 ```
 
 
 ## Run the UI
 
 ```
-pnpm run dev
+npm run dev
 ```
